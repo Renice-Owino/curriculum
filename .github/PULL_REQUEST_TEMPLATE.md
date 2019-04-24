@@ -3,3 +3,5 @@ This is a PR template. If you are adding a solution link to the curriculum, leav
 Thank you,
 
 The Odin Project team.
+My Google-homepage link:
+https://renice-owino.github.io/google-homepage/
