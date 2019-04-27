@@ -1,5 +1,6 @@
 
 ## How to add your solution to the curriculum
+[Renice Owino's solution](https://github.com/Renice-Owino/Renice-Owino.github.io)[View in browser](https://renice-owino.github.io/)
 
 ### 1 The easy way (through your browser)
 * [Video](https://www.youtube.com/watch?v=V74l_zS1x8E)
